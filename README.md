@@ -9,7 +9,6 @@ This is a personal portfolio website built using vanilla HTML, CSS, and a little
 - How to Run
 - Customization
 - Screenshots
-- License
 
 ## 🍿 Live Demo
 - You can view the live version of the portfolio [here](https://raflyhangga.github.io/Portofolio/).
@@ -50,8 +49,8 @@ You can easily customize this portfolio by updating the following sections:
 CSS modifications can be made in the ```css/style.css file``` to change layout, colors, fonts, etc.
 
 ## 📸 Screenshots
-![Hero Section](public\header.jpeg)
+![Hero Section](public/header.jpeg)
 
-![Projects Section](public\projects.jpeg)
+![Projects Section](public/projects.jpeg)
 
-![Experience Section](public\experience.jpeg)
+![Experience Section](public/experience.jpeg)
