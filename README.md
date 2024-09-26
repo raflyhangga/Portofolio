@@ -24,7 +24,7 @@ This is a personal portfolio website built using vanilla HTML, CSS, and a little
 - **CSS3**: For layout and styling (using Flexbox and media queries).
 
 ## 🏗️ Project Structure
-![Image of Project Structure](public\project_structure.png)
+![Image of Project Structure](public/project_structure.png)
 
 ## 🏃🏻‍♂️‍➡️ How to Run
 Clone this repository:
