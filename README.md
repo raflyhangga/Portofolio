@@ -1,5 +1,5 @@
 # 🧑🏻 Portfolio Website
-This is a personal portfolio website built using vanilla HTML, CSS, and a little JavaScript. It showcases personal information, past projects, and experience.
+This is a personal portfolio website built using vanilla HTML, CSS. It showcases personal information, past projects, and experience.
 
 ## 📋 Table of Contents
 - Live Demo
